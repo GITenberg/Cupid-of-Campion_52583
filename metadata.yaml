@@ -1,0 +1,31 @@
+_repo: Cupid-of-Campion_52583
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Finn, Francis J. (Francis James)
+    aliases:
+    - Neenah
+    - Finn, Francis James
+    birthdate: 1859
+    deathdate: 1928
+    gutenberg_agent_id: '46942'
+    url: http://www.gutenberg.org/2009/agents/46942
+description: ''
+gutenberg_issued: '2016-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52583'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Prairie du Chien (Wis.) -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Campion College of the Sacred Heart -- Juvenile fiction'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcsh 'Mississippi River Valley -- Juvenile fiction'
+- GITenberg
+title: Cupid of Campion
+url: http://www.gutenberg.org/ebooks/52583
