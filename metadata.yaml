@@ -1,5 +1,8 @@
 _repo: Cupid-of-Campion_52583
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52583-h/images/cover.jpg
 creator:
   author:
     agent_name: Finn, Francis J. (Francis James)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '46942'
     url: http://www.gutenberg.org/2009/agents/46942
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52583#Cupid-of-Campion
 gutenberg_issued: '2016-07-16'
 gutenberg_type: Text
 identifiers:
